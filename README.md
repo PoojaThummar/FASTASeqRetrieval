@@ -5,9 +5,9 @@ This Biopython script simplifies the retrieval of protein or nucleotide sequence
     pip install biopython <br />
 2. Replace ____@gmail.com with your actual email address in the script.
 # Usage:
-Create a text file (protein_accession_no.txt) containing accession numbers (one per line).
-Run the script.
-It fetches the corresponding fasta sequences from the NCBI protein database.
+Create a text file (protein_accession_no.txt) containing accession numbers (one per line).<br />
+Run the script.<br />
+It fetches the corresponding fasta sequences from the NCBI protein database.<br />
 The sequences are saved in an output file (output_sequences.fasta).
 # Benefits:
 Researchers can efficiently retrieve multiple fasta sequences without manual searching<br />
